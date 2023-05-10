@@ -6,8 +6,8 @@ region = 'us-east-1'
 bucket_name = 'ccfinalproject1'
 
 #add your access key and secret access key
-aws_access_key_id = 'AKIAW4SR6JDQGF4P4Z77'
-aws_secret_access_key = 'iX4qW3oo9aGi69/fpKcoatEhTkqyHnMCDWdPpqUa'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 
 session = boto3.Session(
     aws_access_key_id=aws_access_key_id,
